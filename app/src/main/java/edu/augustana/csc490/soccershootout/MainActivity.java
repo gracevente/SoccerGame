@@ -1,3 +1,4 @@
+//Grace Vente's Individual Project
 package edu.augustana.csc490.soccershootout;
 
 import android.support.v7.app.ActionBarActivity;
